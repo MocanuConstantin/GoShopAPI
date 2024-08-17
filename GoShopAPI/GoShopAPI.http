@@ -1,0 +1,6 @@
+@GoShopAPI_HostAddress = http://localhost:5026
+
+GET {{GoShopAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
